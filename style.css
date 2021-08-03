@@ -1,0 +1,47 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px cornflowerblue;
+    height: 200px;
+}
+body
+{
+    font-family: 'Yomogi', cursive;
+}
+.heading_div
+{
+    background-color: darkturquoise;
+    color: darkviolet;
+    float: none;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px teal;
+}
+.heading_div2
+{
+    font-size: 18px;
+}
+.result_para_tag
+{
+    box-shadow: 5px 5px 5px cadetblue;
+    font-size: 20px;
+}
+.copy_right_footer
+{
+    background-color: darkcyan;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 25px;
+}
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px thistle;
+    margin-top: 170px;
+}
